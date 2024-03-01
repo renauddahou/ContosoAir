@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.solo sala
+[![Build Status](https://dev.azure.com/dahourenaudlouis/cosaire/_apis/build/status%2Frenauddahou.ContosoAir?branchName=master)](https://dev.azure.com/dahourenaudlouis/cosaire/_build/latest?definitionId=12&branchName=master)
 
 
 # Microsoft.Github CI Demo
