@@ -1,7 +1,7 @@
 [![Build Status](https://dev.azure.com/dahourenaudlouis/cosaire/_apis/build/status%2Frenauddahou.ContosoAir?branchName=master)](https://dev.azure.com/dahourenaudlouis/cosaire/_build/latest?definitionId=14&branchName=master)
 
 
-# Microsoft.Github CI Demo
+# Microsoft.Github CI Demoo
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
